@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+msnqfe6LmwLlcwLfz3zzE5rREm8OBShxKJkJ8HnPjA=",
+  "Source": "services-order-update",
+  "BasePath": "_content/services-order-update",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
